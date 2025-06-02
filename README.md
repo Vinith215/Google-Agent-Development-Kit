@@ -75,3 +75,8 @@ Build powerful AI agents using Google's Agent Development Kit (ADK) - the easies
 - Structured responses* with consistent formatting
 - Callback functions* for debugging and monitoring
 - API documentation* auto-generation
+
+**.env**
+
+- GOOGLE_API_KEY=xxxxxx
+- GOOGLE_GENAI_USE_VERTEXAI=FALSE
