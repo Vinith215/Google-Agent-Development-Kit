@@ -43,14 +43,14 @@ Build powerful AI agents using Google's Agent Development Kit (ADK) - the easies
 
 **💻 Installation Commands:**
 
-- ```bash
+ ```bash
 - pip install google-adk yfinance
 - adk create
 - adk run app.py
 - adk web
 - adk deploy cloud-run app
 - adk api-server
-- ```
+ ```
 
 **🌟 Why Google ADK?**
 
