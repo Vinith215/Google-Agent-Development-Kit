@@ -29,68 +29,49 @@ Build powerful AI agents using Google's Agent Development Kit (ADK) - the easies
 **📋 What We Build:**
 
 - Stock price checking agent with real-time Yahoo Finance data
-
 - Memory-enabled agent that remembers search history
-
 - Multi-functional agent with price and company info tools
-
-Structured response agent with buy/sell recommendations
-
-Debug-friendly agent with callback functions
+- Structured response agent with buy/sell recommendations
+- Debug-friendly agent with callback functions
 
 **🛠️ Setup Requirements:**
 
-Python environment
-
-Google API key from aistudio.google.com
-
-Y-Finance library for stock data
-
-Pydantic for structured outputs
+- Python environment
+- Google API key from aistudio.google.com
+- Y-Finance library for stock data
+- Pydantic for structured outputs
 
 **💻 Installation Commands:**
 
-```bash
-pip install google-adk yfinance
-adk create
-adk run app.py
-adk web
-adk deploy cloud-run app
-adk api-server
-```
+- ```bash
+- pip install google-adk yfinance
+- adk create
+- adk run app.py
+- adk web
+- adk deploy cloud-run app
+- adk api-server
+- ```
 
 **🌟 Why Google ADK?**
 
-*Simpler than other frameworks* (AutoGen, LangGraph, Crew AI)
-
-*Build in minutes* with just a few lines of code
-
-*Multiple model support* with full transparency
-
-*Visual debugging* and evaluation capabilities
-
-**Three simple steps**: Install ADK → Define Agent → Deploy Anywhere
+- Simpler than other frameworks* (AutoGen, LangGraph, Crew AI)
+- Build in minutes* with just a few lines of code
+- Multiple model support* with full transparency
+- Visual debugging* and evaluation capabilities
+- Three simple steps**: Install ADK → Define Agent → Deploy Anywhere
 
 **🚀 Deployment Options:**
 
-*Vertex AI Agent Engine*
-
-*Google Cloud Run*
-
-*Custom Infrastructure*
+- Vertex AI Agent Engine*
+- Google Cloud Run*
+- Custom Infrastructure*
 
 **📊 Features Demonstrated:**
 
-*Real-time stock data* fetching and analysis
-
-*Conversation memory* and state management
-
-*Tool interaction visualization* in web UI
-
-*Session management* with unique IDs
-
-*Structured responses* with consistent formatting
-
-*Callback functions* for debugging and monitoring
-
-*API documentation* auto-generation
+- Real-time stock data* fetching and analysis
+- Conversation memory* and state management
+- Tool interaction visualization* in web UI
+- Session management* with unique IDs
+- Structured responses* with consistent formatting
+- Callback functions* for debugging and monitoring
+- API documentation* auto-generation
