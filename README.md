@@ -18,27 +18,21 @@ Build powerful AI agents using Google's Agent Development Kit (ADK) - the easies
 
 ⭐ **Key Features Covered:***
 
-*Multi-agent system* without complexity
-
-*Visual debugging* and evaluation tools
-
-*Built-in state management* and artifacts
-
-*Session handling* and conversation memory
-
-*Real-time data integration* with custom tools
-
-*One-command deployment* to Google Cloud
-
-*API server setup* with automatic documentation
+- Multi-agent system* without complexity
+- Visual debugging* and evaluation tools
+- Built-in state management* and artifacts
+- Session handling* and conversation memory
+- Real-time data integration* with custom tools
+- One-command deployment* to Google Cloud
+- API server setup* with automatic documentation
 
 **📋 What We Build:**
 
-Stock price checking agent with real-time Yahoo Finance data
+- Stock price checking agent with real-time Yahoo Finance data
 
-Memory-enabled agent that remembers search history
+- Memory-enabled agent that remembers search history
 
-Multi-functional agent with price and company info tools
+- Multi-functional agent with price and company info tools
 
 Structured response agent with buy/sell recommendations
 
